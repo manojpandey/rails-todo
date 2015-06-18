@@ -1,6 +1,6 @@
 == README
 
-## Todo app in Rails 4
+=== Todo app in Rails 4
 
 Things you may want to cover:
 
